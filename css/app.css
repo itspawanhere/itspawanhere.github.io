@@ -899,6 +899,9 @@ video {
 .inline-flex {
   display: inline-flex;
 }
+.table {
+  display: table;
+}
 .grid {
   display: grid;
 }
@@ -1184,6 +1187,20 @@ nav a.active:is(.dark *) {
 #content .read-more:hover:is(.dark *) {
   --tw-text-opacity: 1;
   color: rgb(167 243 208 / var(--tw-text-opacity));
+}
+#content .footnotes {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+#content .footnotes p {
+  margin-bottom: 0px;
+  display: inline-block;
+}
+#content .footnotes ol {
+  display: block;
+}
+#content .footnotes li {
+  margin-bottom: 0.75rem;
 }
 #content .alert-box {
   margin-bottom: 1.25rem;

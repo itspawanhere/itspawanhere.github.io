@@ -1,6 +1,37 @@
 User-agent: *
 
-Disallow: /tags/
+Disallow: /tags/book-reviews/
+
+Disallow: /tags/business/
 
 Disallow: /categories/
 
+Disallow: /tags/developer/
+
+Disallow: /categories/introduction/
+
+Disallow: /tags/life/
+
+Disallow: /posts/
+
+Disallow: /tags/software-engineering/
+
+Disallow: /tags/startup/
+
+Disallow: /tags/
+
+Disallow: /tags/tech-tutorials/
+
+Disallow: /tags/technology/
+
+Disallow: /tags/travel/
+
+Disallow: /posts/my-first-post/
+
+Disallow: /
+
+Disallow: /contact/
+
+Disallow: /books/
+
+Disallow: /resume/
