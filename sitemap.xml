@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://itspawanhere.github.io/posts/</loc>
+    <lastmod>2024-05-05T14:44:21+05:30</lastmod>
+  </url><url>
+    <loc>https://itspawanhere.github.io/</loc>
+    <lastmod>2024-05-05T14:44:21+05:30</lastmod>
+  </url><url>
     <loc>https://itspawanhere.github.io/tags/book-reviews/</loc>
     <lastmod>2024-05-04T15:05:24+05:30</lastmod>
   </url><url>
@@ -18,9 +24,6 @@
     <lastmod>2024-05-04T15:05:24+05:30</lastmod>
   </url><url>
     <loc>https://itspawanhere.github.io/tags/life/</loc>
-    <lastmod>2024-05-04T15:05:24+05:30</lastmod>
-  </url><url>
-    <loc>https://itspawanhere.github.io/posts/</loc>
     <lastmod>2024-05-04T15:05:24+05:30</lastmod>
   </url><url>
     <loc>https://itspawanhere.github.io/tags/software-engineering/</loc>
@@ -42,9 +45,6 @@
     <lastmod>2024-05-04T15:05:24+05:30</lastmod>
   </url><url>
     <loc>https://itspawanhere.github.io/posts/my-first-post/</loc>
-    <lastmod>2024-05-04T15:05:24+05:30</lastmod>
-  </url><url>
-    <loc>https://itspawanhere.github.io/</loc>
     <lastmod>2024-05-04T15:05:24+05:30</lastmod>
   </url><url>
     <loc>https://itspawanhere.github.io/contact/</loc>
