@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Sat, 04 May 2024 15:05:24 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 14:44:21 +0530</lastBuildDate>
     <atom:link href="https://itspawanhere.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Red Sneakers Effect: How Standing Out Can Boost Your Status</title>
+      <link>https://itspawanhere.github.io/posts/red-sneaker-effect/</link>
+      <pubDate>Sun, 05 May 2024 14:44:21 +0530</pubDate>
+      <guid>https://itspawanhere.github.io/posts/red-sneaker-effect/</guid>
+      <description>In a world where fitting in seems like the safest bet, standing out can sometimes be the winning strategy.</description>
+    </item>
     <item>
       <title>Welcome to My Blog!</title>
       <link>https://itspawanhere.github.io/posts/my-first-post/</link>
