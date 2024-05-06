@@ -1509,3 +1509,10 @@ nav a.active:is(.dark *) {
     line-height: 1.25rem;
   }
 }
+@media (min-width: 768px) {
+
+  .md\:px-0 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
