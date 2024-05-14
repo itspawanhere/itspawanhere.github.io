@@ -1,6 +1,6 @@
 # Pawan Kumar's Personal Website
 
-Welcome to the repository for my personal website hosted at [itspawanhere.github.io](https://itspawanhere.github.io). This website is built using [Hugo](https://gohugo.io/), a static site generator, and styled with Tailwind CSS.
+Welcome to the repository for my personal website hosted at [itspawanhere.com](https://itspawanhere.com). This website is built using [Hugo](https://gohugo.io/), a static site generator, and styled with Tailwind CSS.
 
 ## About the Website
 
