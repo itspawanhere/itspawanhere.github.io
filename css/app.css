@@ -1,7 +1,3 @@
-
-> lowkey@1.1.0 npx
-> postcss --config /Users/pawan.kumar/Documents/personal/hugo-source/config/postcss.config.js
-
 /*
 ! tailwindcss v3.4.3 | MIT License | https://tailwindcss.com
 *//*
@@ -873,6 +869,9 @@ video {
 }
 .visible {
   visibility: visible;
+}
+.fixed {
+  position: fixed;
 }
 .order-1 {
   order: 1;

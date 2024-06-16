@@ -7,13 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Sat, 11 May 2024 14:50:07 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 12:40:43 +0530</lastBuildDate>
     <atom:link href="https://itspawanhere.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Highlights</title>
+      <link>https://itspawanhere.com/tags/book-highlights/</link>
+      <pubDate>Sun, 16 Jun 2024 12:40:43 +0530</pubDate>
+      <guid>https://itspawanhere.com/tags/book-highlights/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Business</title>
       <link>https://itspawanhere.com/tags/business/</link>
-      <pubDate>Sat, 11 May 2024 14:50:07 +0530</pubDate>
+      <pubDate>Sun, 16 Jun 2024 12:40:43 +0530</pubDate>
       <guid>https://itspawanhere.com/tags/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Future</title>
+      <link>https://itspawanhere.com/tags/future/</link>
+      <pubDate>Sun, 16 Jun 2024 12:40:43 +0530</pubDate>
+      <guid>https://itspawanhere.com/tags/future/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://itspawanhere.com/tags/technology/</link>
+      <pubDate>Sun, 16 Jun 2024 12:40:43 +0530</pubDate>
+      <guid>https://itspawanhere.com/tags/technology/</guid>
       <description></description>
     </item>
     <item>
@@ -98,13 +119,6 @@
       <link>https://itspawanhere.com/tags/tech-tutorials/</link>
       <pubDate>Sat, 04 May 2024 15:05:24 +0530</pubDate>
       <guid>https://itspawanhere.com/tags/tech-tutorials/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>https://itspawanhere.com/tags/technology/</link>
-      <pubDate>Sat, 04 May 2024 15:05:24 +0530</pubDate>
-      <guid>https://itspawanhere.com/tags/technology/</guid>
       <description></description>
     </item>
     <item>

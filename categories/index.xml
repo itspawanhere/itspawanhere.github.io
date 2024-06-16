@@ -7,13 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Sat, 11 May 2024 14:50:07 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 12:40:43 +0530</lastBuildDate>
     <atom:link href="https://itspawanhere.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Highlights</title>
+      <link>https://itspawanhere.com/categories/book-highlights/</link>
+      <pubDate>Sun, 16 Jun 2024 12:40:43 +0530</pubDate>
+      <guid>https://itspawanhere.com/categories/book-highlights/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Business</title>
       <link>https://itspawanhere.com/categories/business/</link>
-      <pubDate>Sat, 11 May 2024 14:50:07 +0530</pubDate>
+      <pubDate>Sun, 16 Jun 2024 12:40:43 +0530</pubDate>
       <guid>https://itspawanhere.com/categories/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Future</title>
+      <link>https://itspawanhere.com/categories/future/</link>
+      <pubDate>Sun, 16 Jun 2024 12:40:43 +0530</pubDate>
+      <guid>https://itspawanhere.com/categories/future/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://itspawanhere.com/categories/technology/</link>
+      <pubDate>Sun, 16 Jun 2024 12:40:43 +0530</pubDate>
+      <guid>https://itspawanhere.com/categories/technology/</guid>
       <description></description>
     </item>
     <item>
