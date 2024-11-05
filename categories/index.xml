@@ -7,20 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Sun, 16 Jun 2024 12:40:43 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 21:00:00 +0530</lastBuildDate>
     <atom:link href="https://itspawanhere.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business</title>
+      <link>https://itspawanhere.com/categories/business/</link>
+      <pubDate>Tue, 05 Nov 2024 21:00:00 +0530</pubDate>
+      <guid>https://itspawanhere.com/categories/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entrepreneurship</title>
+      <link>https://itspawanhere.com/categories/entrepreneurship/</link>
+      <pubDate>Tue, 05 Nov 2024 21:00:00 +0530</pubDate>
+      <guid>https://itspawanhere.com/categories/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Startup</title>
+      <link>https://itspawanhere.com/categories/startup/</link>
+      <pubDate>Tue, 05 Nov 2024 21:00:00 +0530</pubDate>
+      <guid>https://itspawanhere.com/categories/startup/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Book Highlights</title>
       <link>https://itspawanhere.com/categories/book-highlights/</link>
       <pubDate>Sun, 16 Jun 2024 12:40:43 +0530</pubDate>
       <guid>https://itspawanhere.com/categories/book-highlights/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://itspawanhere.com/categories/business/</link>
-      <pubDate>Sun, 16 Jun 2024 12:40:43 +0530</pubDate>
-      <guid>https://itspawanhere.com/categories/business/</guid>
       <description></description>
     </item>
     <item>
@@ -35,20 +49,6 @@
       <link>https://itspawanhere.com/categories/technology/</link>
       <pubDate>Sun, 16 Jun 2024 12:40:43 +0530</pubDate>
       <guid>https://itspawanhere.com/categories/technology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Entrepreneurship</title>
-      <link>https://itspawanhere.com/categories/entrepreneurship/</link>
-      <pubDate>Sat, 11 May 2024 14:50:07 +0530</pubDate>
-      <guid>https://itspawanhere.com/categories/entrepreneurship/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Startup</title>
-      <link>https://itspawanhere.com/categories/startup/</link>
-      <pubDate>Sat, 11 May 2024 14:50:07 +0530</pubDate>
-      <guid>https://itspawanhere.com/categories/startup/</guid>
       <description></description>
     </item>
     <item>
