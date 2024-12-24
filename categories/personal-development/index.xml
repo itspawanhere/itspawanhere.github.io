@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Development on Pawan Kumar</title>
+    <link>https://itspawanhere.com/categories/personal-development/</link>
+    <description>Recent content in Personal Development on Pawan Kumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Tue, 24 Dec 2024 23:03:45 +0530</lastBuildDate>
+    <atom:link href="https://itspawanhere.com/categories/personal-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Think Fast, Talk Smart - Lecture by Matt Abrahams</title>
+      <link>https://itspawanhere.com/posts/think-fast-talk-smart/</link>
+      <pubDate>Tue, 24 Dec 2024 23:03:45 +0530</pubDate>
+      <guid>https://itspawanhere.com/posts/think-fast-talk-smart/</guid>
+      <description>Effective communication is essential in both planned and spontaneous speaking situations. Whether you are delivering a speech, answering questions, or engaging in a casual conversation, the techniques shared by Matt Abrahams in his Think Fast, Talk Smart workshop can help you communicate with clarity, confidence, and ease.</description>
+    </item>
+  </channel>
+</rss>
