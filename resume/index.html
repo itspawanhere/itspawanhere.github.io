@@ -8,10 +8,7 @@
 <title>Resume</title>
 <meta
   name="description"
-  content="Contact Information Email: pawanwrites93@gmail.com
-LinkedIn: itspawanhere
-Website: itspawanhere.com
-Education Indian Institute of Technology, Kanpur"
+  content="As a Senior Engineer in Data Platform at Sophos, I have been involved in creating a new Apache Iceberg-based data pipeline for our data lake."
 />
 <link rel="canonical" href="https://itspawanhere.com/resume/" />
 <link rel="robots" href="/robots.txt" />
@@ -162,6 +159,11 @@ Education Indian Institute of Technology, Kanpur"
   
   
     <hr>
+<p>As a Senior Engineer in Data Platform at Sophos, I have been involved in creating a new Apache Iceberg-based data pipeline for our data lake. Before this, my primary focus involved creating a new batch detection framework using the data available in the data lake to help the threat hunters detect potentially customer-compromising detections before they happen.</p>
+<p>I am leading and mentoring a high-performing team of 5+ engineers to work on cross-team collaboration, elevate code standards, and cultivating a culture of continuous improvement and ownership.</p>
+<p>I have used my skills in AWS, Java, Spring, Python, Relational, and Non-relational databases to deliver high-quality solutions that increase transparency, accountability, and efficiency for our clients. Additionally, I have been mentoring 5+ junior engineers in software development best practices and enhancing their technical competencies.</p>
+<p>Before joining Sophos, I worked at o9 Solutions, Goldman Sachs, Eureka AI, and Samsung Research Institute, where I gained valuable experience in developing proprietary databases from scratch, building web applications, handling data pipelines in a large-scale system, building desktop applications, building user tracing systems based on their constantly changing geography, and building UX using cutting-edge technologies. I have a Master&rsquo;s degree in Computer Science and Engineering from IIT Kanpur and a Bachelor&rsquo;s degree in the same field from IIT Guwahati.</p>
+<p>I am passionate about exploring new horizons, taking on new challenges, and solving intricate problems in the software engineering world.</p>
 <h2 id="contact-information">Contact Information</h2>
 <ul>
 <li>
@@ -196,12 +198,21 @@ Education Indian Institute of Technology, Kanpur"
 <p><strong>Sophos</strong>, Bangalore, IN<br>
 <em>Senior Software Engineer II</em><br>
 <em>October 2023 - Present</em></p>
-<ul>
-<li>
-<p><strong>Compound Detections</strong>: Created a Batch Processing framework in Amazon Managed Workflows for Apache Airflow (MWAA). This allows threat researchers to register their detection workflows. This new detection framework accelerated threat detection automation by approximately 10x.</p>
-<p><strong>Tools/Technology used:</strong> AWS, Airflow, Spring Boot, PrestoSQL, Python</p>
 </li>
-</ul>
+<li>
+<p><strong>Building Apache Iceberg Based Datalake</strong>: Built a new Apache Iceberg pipeline to pull data from XDR, MDR, firewall, and other sources, replacing our Hive-based legacy pipeline. Queries now run about twice as fast, storage needs dropped by roughly 30%, and data is available in the S3 data lake over 50% sooner. The pipeline also added write support for S3 and time-travel queries, allowing us to track changes automatically for auditing purposes.</p>
+<p><strong>Tools/Technology used:</strong> Spring Boot, Kafka, Iceberg, Glue, Athena, Grafana, Logz, Metabase.</p>
+</li>
+<li>
+<p><strong>Batch Detections &amp; ETL</strong>: Created batch processing framework in Amazon Managed Workflows for Apache Airflow (MWAA), using which threat researchers can register their detection workflows. Features included running your detection in multi-phases, segregating different types of customers based on licenses, and running ETL jobs before the detection. This new detection framework offered by Sophos helped automate threat detections approximately 10 times faster.</p>
+<p><strong>Tools/Technology used:</strong> AWS, Airflow, Kafka, Trino, Avro, Redis, Python, Terraform</p>
+</li>
+<li>
+<p><strong>AWS Cluster Migration</strong>: Managed AWS infrastructure using Terraform to provision, migrate, and tear down clusters as needed. For example, I shifted ECS workloads from Fargate to EC2, set up auto-scaling based on demand, and right-sized instances per service. These changes cut infrastructure costs by several thousand dollars annually, improved resource utilization, and made deployments more consistent and reliable.</p>
+<p><strong>Tools/Technology used:</strong> AWS, Terraform, Unix Scripting.</p>
+</li>
+<li>
+<p><strong>Mentoring Work</strong>: Led and mentored a high-performing team of 5+ engineers, driving adoption of modern engineering practices, elevating code standards, and cultivating a culture of continuous improvement and ownership.</p>
 </li>
 <li>
 <p><strong>o9 Solutions</strong>, Bangalore, IN<br>
@@ -209,11 +220,11 @@ Education Indian Institute of Technology, Kanpur"
 <em>August 2021 - September 2023</em></p>
 <ul>
 <li>
-<p><strong>Lightweight Scenario and Scenario Sharing</strong>: Implemented &ldquo;Lightweight scenarios&rdquo; for o9&rsquo;s proprietary database, minimizing data replication and memory usage. Also developed a feature for scenario sharing, allowing datasets to be shared in read-only/write mode with specific users or roles.</p>
-<p><strong>Tools/Technology used:</strong> C#, SQL Server, Redis, RabbitMQ, Solr, MongoDB, Visual Studio</p>
+<p><strong>Lightweight Scenario and Scenario Sharing</strong>: Scenarios are meant for doing a what-if analysis on the dataset. Implemented a special type of scenario called “Lightweight scenarios” for the o9 proprietary database that incurs the minimum amount of data replication and memory usage. Also, implemented the feature of scenario sharing, using which a copy of the whole what-if version of the dataset can be shared in read-only/write mode with users/roles.</p>
+<p><strong>Tools/Technology used:</strong> C#, SQL Server, Redis, RabbitMQ, Solr, MongoDB, Visual Studio.</p>
 </li>
 <li>
-<p><strong>Audit Trail</strong>: Implemented a robust auditing system that tracked all transactions on o9&rsquo;s database, significantly increasing transparency and accountability. This reduced transaction tracking time by 10x and enhanced data integrity.</p>
+<p><strong>Audit Trail</strong>: Implemented robust auditing system that tracked all transactions on the o9&rsquo;s database, increasing transparency and accountability; reduced transaction tracking time by 10x and improved data integrity.</p>
 <p><strong>Tools/Technology used:</strong> Java, Spring Boot, Hadoop, Lucene, Protobuf, HBase, SQL Server</p>
 </li>
 <li>
@@ -221,7 +232,7 @@ Education Indian Institute of Technology, Kanpur"
 <p><strong>Tools/Technology used:</strong> Java, Spring Boot, Hadoop, Hive, SQL Server</p>
 </li>
 <li>
-<p><strong>Health Check for Services</strong>: Designed and implemented a solution for Java-based services at o9 to regularly transmit health and configuration status to a centralized dashboard, improving SLA adherence by over 20%.</p>
+<p><strong>Health Check for Services</strong>: Designed and executed a cutting-edge solution that enabled o9&rsquo;s Java-based services to transmit their health and configuration status to a centralized dashboard regularly. This approach facilitated adherence to service-level agreements and allowed for timely remedial action by tracking machine failures and incorrect configurations. The outcome was a significant improvement of more than 20% in our SLA.</p>
 <p><strong>Tools/Technology used:</strong> Java, Spring Boot, RabbitMQ, Elasticsearch, Kibana</p>
 </li>
 </ul>
@@ -232,7 +243,7 @@ Education Indian Institute of Technology, Kanpur"
 <em>January 2021 - July 2021</em></p>
 <ul>
 <li>
-<p><strong>Lumos</strong>: Enhanced LUMOS, an internal desktop application for GS, aiming to centralize open workflows, tickets, and notifications. Added features such as message boards and outage notifications, and improved response times for open tickets, which boosted overall efficiency by over 30%.</p>
+<p><strong>Lumos</strong>: Undertook the task of augmenting &ldquo;LUMOS&rdquo;, an internal desktop application used by GS. The primary objective was centralizing open workflows, tickets, and notifications for all GS employees within a unified and intuitive desktop app. Added the feature of adding message boards, and outage notifications, and getting the least TAT on any open tickets by the support team. This led to an improvement in efficiency by over 30%.</p>
 <p><strong>Tools/Technology used:</strong> Angular, Electron, TypeScript, SQLite, HTML, CSS, Java, Spring Boot</p>
 </li>
 </ul>
@@ -243,6 +254,10 @@ Education Indian Institute of Technology, Kanpur"
 <em>June 2018 - January 2021</em></p>
 <ul>
 <li>
+<p><strong>Eureka Omni</strong>: Developed a versatile tool called Omni, which enables the creation of customized dashboards using pre-existing or new widgets to generate reports in diverse formats. The solution provides a streamlined approach to report creation and empowers clients to effortlessly share and disseminate information with stakeholders.</p>
+<p><strong>Tools/Technology used:</strong> Cube.js, Spring Boot, React</p>
+</li>
+<li>
 <p><strong>Contact Tracing</strong>: Developed a user tracing system using Telco Data to identify potential sources of COVID-19 infection with user consent. Incorporated Point of Interest data to help identify potential infection sites. The system was used by government agencies to mitigate the spread of the virus.</p>
 <p><strong>Tools/Technology used:</strong> Apache Druid, Leaflet, Spring Boot, React</p>
 </li>
@@ -251,15 +266,15 @@ Education Indian Institute of Technology, Kanpur"
 <p><strong>Tools/Technology used:</strong> Elasticsearch, Spring Boot, Bootstrap, React</p>
 </li>
 <li>
-<p><strong>Data Pipeline for Telco Dataset</strong>: Constructed &ldquo;pipecore&rdquo;, a data transformation tool automating the integration of Telco data into a proprietary format optimized for AI processing. Improved data pipeline efficiency by over 300%.</p>
+<p><strong>Data Pipeline for Telco Dataset</strong>: Built an advanced data transformation tool, &ldquo;pipecore&rdquo;, capable of automating the seamless integration of data from various Telcos into our proprietary internal format, optimized for use with AI engines. This tool also facilitated the efficient transfer of data between databases, including but not limited to Hive and Elasticsearch, ensuring smooth and uninterrupted data flow across our systems, and hence enhancing our data pipeline efficiency by over 3x.</p>
 <p><strong>Tools/Technology used:</strong> Java, Hadoop, Oozie, Spark, Hive, Python, Kafka, Elasticsearch, Kibana</p>
 </li>
 <li>
-<p><strong>Eureka User Profile Store</strong>: Designed and developed the UI and backend for a profile store, enabling deep exploration of Telco users and advanced data extraction through dynamic filters. This tool helped secure contracts with 6 telcos across 5 countries.</p>
+<p><strong>Eureka User Profile Store</strong>: Designed and developed the UI and backend of the Eureka User Profile Store utilizing RESTful APIs. The platform allowed for the exploration of Telco Users and the extraction of specific user sections using multiple filters. Additionally, Implemented a suite of data visualization tools that dynamically responded to selected filters, empowering clients to generate intelligence reports for their target users. The success of this initiative resulted in 6 telcos across 5 countries contracting our services.</p>
 <p><strong>Tools/Technology used:</strong> Java, Spring Boot, Elasticsearch, React, Bootstrap, ChartJS</p>
 </li>
 <li>
-<p><strong>Campaign Management System</strong>: Developed a CMS allowing directors to create and manage targeted marketing campaigns. Facilitated simultaneous campaign management and integrated complete BI and analytics, enhancing user tracking and campaign efficiency.</p>
+<p><strong>Campaign Management System</strong>: Developed a system using which a Campaign Director can create and manage campaigns for any set of target customers. The major challenge involved matchmaking of the best users for each campaign during simultaneous runs. By using CMS, Eureka managed to run 10-100 campaigns in parallel with the users being tracked through the funnel alongside the complete BI and analytics integration for the campaigns.</p>
 <p><strong>Tools/Technology used:</strong> Spring Boot, MySQL, React</p>
 </li>
 </ul>
@@ -270,11 +285,11 @@ Education Indian Institute of Technology, Kanpur"
 <em>June 2014 - July 2016</em></p>
 <ul>
 <li>
-<p><strong>Splitbilling</strong>: Developed a robust and scalable billing system designed to allow system administrators to monitor call, SMS, and data usage across personal and enterprise accounts via a unified dashboard. This system significantly reduced company costs by controlling expenses related to personal usage.</p>
+<p><strong>Splitbilling</strong>: Engineered a robust and scalable billing system that enables system administrators to efficiently monitor call, SMS, and data usage for both personal and enterprise accounts through a unified dashboard. As a result, this initiative yielded significant cost savings for the company by mitigating expenses related to personal usage.</p>
 <p><strong>Tools/Technology used:</strong> Python, MongoDB, Flask, JavaScript, Bootstrap</p>
 </li>
 <li>
-<p><strong>Email Glue</strong>: Led the development of an advanced email automation system that created tasks and events from email content, supporting a zero-inbox policy for Samsung&rsquo;s email application. Additionally, designed a Google Drive add-on for seamless integration with Samsung Email, enhancing email management and productivity.</p>
+<p><strong>Email Glue</strong>: Led the development of an advanced email automation system, capable of automatically creating tasks and events based on email content, thus enabling a zero-inbox policy for the Samsung email application. In addition, architected a Google Drive add-on for Samsung Email, allowing mail attachments to be directly integrated with Google Drive. This comprehensive solution improved email management efficiency, enhancing overall productivity while ensuring data integrity and accessibility.</p>
 <p><strong>Tools/Technology used:</strong> Android, Java, Google Drive SDK, Android Studio</p>
 </li>
 </ul>
@@ -284,13 +299,18 @@ Education Indian Institute of Technology, Kanpur"
 <ul>
 <li>
 <p><strong>Jury&rsquo;s Favorite Award, Hackathon</strong><br>
-Recognized at an o9 Solutions hackathon for developing a customer support bot utilizing LangChain and OpenAI&rsquo;s ChatGPT APIs.<br>
+Won Jury&rsquo;s favorite award at a Hackathon organized by o9 Solutions for building a customer support bot using LangChain and OpenAI&rsquo;s ChatGPT APIs.<br>
 <em>September 2023</em></p>
 </li>
 <li>
 <p><strong>Employee of the Quarter, o9 Solutions</strong><br>
-Awarded for exceptional achievements and outstanding contributions in the workplace.<br>
+Earned recognition as the recipient of the prestigious &ldquo;Employee of the Quarter&rdquo; award at o9 Solutions, in honor of outstanding contributions and exceptional achievements in the workplace.
 <em>January 2023</em></p>
+</li>
+<li>
+<p><strong>Tizen App, Samsung</strong><br>
+Won a Tizen Samsung Phone for creating a holiday planner app on Tizen Store.
+<em>May 2015</em></p>
 </li>
 <li>
 <p><strong>Top 0.18% Rank, Joint Entrance Examination</strong><br>
@@ -319,10 +339,10 @@ Awarded first place in a competitive state-level essay writing event.<br>
 <p><strong>Programming Languages</strong>: Java, Python, JavaScript, SQL, Unix Scripting</p>
 </li>
 <li>
-<p><strong>Tools &amp; Frameworks</strong>: Spring Boot, Git, React, Chakra-UI, GraphQL, React, Angular, Electron, Docker, Kubernetes (K8s), Terraform, CI/CD, Nginx, LaTeX</p>
+<p><strong>Tools &amp; Frameworks</strong>: Spring Boot, Git, React, NextJS, Chakra-UI, Tailwind, ShadcnUI, Jenkins, GraphQL, React, Angular, Electron, Docker, Kubernetes (K8s), Terraform, CI/CD, Nginx, LaTeX</p>
 </li>
 <li>
-<p><strong>Industry Knowledge</strong>: AWS, Airflow, Hadoop, HBase, Presto, Iceberg, ELK Stack, MongoDB, PostgreSQL, RabbitMQ, Kafka, Redis</p>
+<p><strong>Industry Knowledge</strong>: AWS, GCP, Airflow, Hadoop, Hive, HBase, Presto, Iceberg, ELK Stack, MongoDB, Firebase, PostgreSQL, RabbitMQ, Kafka, Redis</p>
 </li>
 <li>
 <p><strong>Additional Skills</strong>: Consistently able to type at 90+ WPM.</p>
