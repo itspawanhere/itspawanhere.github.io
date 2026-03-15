@@ -1456,6 +1456,18 @@ nav a.active:is(.dark *) {
   --tw-text-opacity: 1;
   color: rgb(209 213 219 / var(--tw-text-opacity));
 }
+.\[oai_citation\:1\2021psfuturemail\.com\] {
+  oai_citation: 1‡psfuturemail.com;
+}
+.\[oai_citation\:2\2021psfuturemail\.com\] {
+  oai_citation: 2‡psfuturemail.com;
+}
+.\[oai_citation\:3\2021psfuturemail\.com\] {
+  oai_citation: 3‡psfuturemail.com;
+}
+.\[oai_citation\:4\2021psfuturemail\.com\] {
+  oai_citation: 4‡psfuturemail.com;
+}
 .hover\:scroll-auto:hover {
   scroll-behavior: auto;
 }

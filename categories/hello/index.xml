@@ -4,7 +4,7 @@
     <title>Hello on Pawan Kumar</title>
     <link>http://localhost:1313/categories/hello/</link>
     <description>Recent content in Hello on Pawan Kumar</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>{year}</copyright>
     <lastBuildDate>Sat, 27 Aug 2022 09:16:45 +0000</lastBuildDate>
@@ -14,7 +14,7 @@
       <link>http://localhost:1313/posts/markdown-cheat-sheet/</link>
       <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
       <guid>http://localhost:1313/posts/markdown-cheat-sheet/</guid>
-      <description>This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can&amp;rsquo;t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.</description>
+      <description>&lt;p&gt;This Markdown cheat sheet &lt;strong&gt;provides&lt;/strong&gt; a quick overview of all the Markdown syntax elements. It can&amp;rsquo;t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic &lt;em&gt;syntax&lt;/em&gt; and extended syntax.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
