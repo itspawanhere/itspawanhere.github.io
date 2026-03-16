@@ -4,3 +4,5 @@ Disallow: /tags/
 
 Disallow: /categories/
 
+
+Sitemap: https://itspawanhere.com/sitemap.xml
