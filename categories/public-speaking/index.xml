@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Public Speaking on Pawan Kumar</title>
-    <link>https://itspawanhere.com/categories/public-speaking/</link>
-    <description>Recent content in Public Speaking on Pawan Kumar</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <copyright>{year}</copyright>
-    <lastBuildDate>Tue, 24 Dec 2024 23:03:45 +0530</lastBuildDate>
-    <atom:link href="https://itspawanhere.com/categories/public-speaking/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Think Fast, Talk Smart - Lecture by Matt Abrahams</title>
-      <link>https://itspawanhere.com/posts/think-fast-talk-smart/</link>
-      <pubDate>Tue, 24 Dec 2024 23:03:45 +0530</pubDate>
-      <guid>https://itspawanhere.com/posts/think-fast-talk-smart/</guid>
-      <description>&lt;p&gt;Effective communication is essential in both planned and spontaneous speaking situations. Whether you are delivering a speech, answering questions, or engaging in a casual conversation, the techniques shared by Matt Abrahams in his Think Fast, Talk Smart workshop can help you communicate with clarity, confidence, and ease. The session focused on the art of speaking effectively in impromptu situations and offered practical tools to overcome common obstacles like anxiety and the fear of making mistakes. Below are some of the most impactful takeaways from the workshop. The lecture is available &lt;a href=&#34;https://youtu.be/HAnw168huqA&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Public Speaking on Pawan Kumar</title>
+		<link>https://itspawanhere.com/categories/public-speaking/</link>
+		<description>Recent content in Public Speaking on Pawan Kumar</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+			<copyright>{year}</copyright>
+		
+		
+			<lastBuildDate>Tue, 24 Dec 2024 23:03:45 +0530</lastBuildDate>
+		
+			<atom:link href="https://itspawanhere.com/categories/public-speaking/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Think Fast, Talk Smart - Lecture by Matt Abrahams</title>
+				<link>https://itspawanhere.com/posts/think-fast-talk-smart/</link>
+				<pubDate>Tue, 24 Dec 2024 23:03:45 +0530</pubDate>
+				<guid>https://itspawanhere.com/posts/think-fast-talk-smart/</guid>
+				<description>&lt;p&gt;Effective communication is essential in both planned and spontaneous speaking situations. Whether you are delivering a speech, answering questions, or engaging in a casual conversation, the techniques shared by Matt Abrahams in his Think Fast, Talk Smart workshop can help you communicate with clarity, confidence, and ease. The session focused on the art of speaking effectively in impromptu situations and offered practical tools to overcome common obstacles like anxiety and the fear of making mistakes. Below are some of the most impactful takeaways from the workshop. The lecture is available &lt;a href=&#34;https://youtu.be/HAnw168huqA&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
